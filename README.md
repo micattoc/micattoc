@@ -1,21 +1,41 @@
 ### Hi there 👋
+<h5>I'm a Salesforce Developer Intern & Computer Science student</h5>
+<h4>Tech Stack</h4>
+<p align="left">
+  <div>
+    <a href="https://www.java.com"><img height="25px" src="https://skillicons.dev/icons?i=java"/></a>
+    <a href="https://www.python.org"><img height="25px" src="https://skillicons.dev/icons?i=py"/></a>
+    <a href="https://www.javascript.com"><img height="25px" src="https://skillicons.dev/icons?i=js"/></a>
+    <a href="https://www.typescriptlang.org"><img height="25px" src="https://skillicons.dev/icons?i=ts"/></a>
+    <a href="https://react.dev"><img height="25px" src="https://skillicons.dev/icons?i=react"/></a>
+    <a href="https://angular.io"><img height="25px" src="https://skillicons.dev/icons?i=angular"/></a>
+    <a href="https://nodejs.org"><img height="25px" src="https://skillicons.dev/icons?i=nodejs"/></a>
+    <a href="https://aws.amazon.com"><img height="25px" src="https://skillicons.dev/icons?i=aws"/></a>
+    <a href="https://azure.microsoft.com"><img height="25px" src="https://skillicons.dev/icons?i=azure"/></a>
+  </div>
+</p>
+<h4>Currently learning</h4>
+<p align="left">
+  <div>
+    <a href="https://www.java.com"><img height="25px" src="https://skillicons.dev/icons?i=cs"/></a>
+    <a href="https://dotnet.microsoft.com"><img height="25px" src="https://skillicons.dev/icons?i=dotnet"/></a>
+    <a href="https://flask.palletsprojects.com"><img height="25px" src="https://skillicons.dev/icons?i=flask"/></a>
+  </div>
+</p>
+<h4>Creative Interests</h4>
+<p align="left">
+  <div>
+    <img height="25px" src="https://skillicons.dev/icons?i=ps"/>
+    <img height="25px" src="https://skillicons.dev/icons?i=ae"/>
+    <img height="25px" src="https://skillicons.dev/icons?i=ai"/>
+    <img height="25px" src="https://skillicons.dev/icons?i=figma"/>
+    <img height="25px" src="https://skillicons.dev/icons?i=blender"/>
+  </div>
+</p>
 
-### Tech Stack
-[<img align="left" alt="React" height="30px" padding-right="0px" src="https://skillicons.dev/icons?i=react"/>][react]
-[<img align="left" alt="Java" height="30px" padding-right="0px" src="https://skillicons.dev/icons?i=java"/>][java]
-[<img align="left" alt="React" height="30px" padding-right="0px" src="https://skillicons.dev/icons?i=react"/>][react]
-
-### Frameworks & Libraries
-
-### Tools
-
-### Interests
-
-### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
 [1]: https://www.linkedin.com/in/sophia-halapchuk
-[react]: https://react.dev/
 
 <!--
 **micattoc/micattoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
