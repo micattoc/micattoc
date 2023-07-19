@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 <!--
 **micattoc/micattoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
