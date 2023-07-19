@@ -3,6 +3,8 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micattoc&layout=compact)](https://github.com/micattoc)
+
 <!--
 **micattoc/micattoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
