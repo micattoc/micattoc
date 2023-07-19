@@ -1,5 +1,5 @@
-### Hi there 👋
-<h5>I'm a Salesforce Developer Intern & Computer Science student</h5>
+### howdy 👋
+
 <h4>Tech Stack</h4>
 <p align="left">
   <div>
@@ -33,9 +33,9 @@
   </div>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-
-[1]: https://www.linkedin.com/in/sophia-halapchuk
+<div margin-top="20px">
+    <a href="https://www.linkedin.com/in/sophia-halapchuk"><img height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
 
 <!--
 **micattoc/micattoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
