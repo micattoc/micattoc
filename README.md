@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### Tech Stack
-[<img align="left" alt="React" width="30px" src="https://skillicons.dev/icons?i=react,js"/>][react]
+[<img align="left" alt="React" width="30px" src="https://skillicons.dev/icons?i=react"/>][react]
+[<img align="left" alt="Java" width="30px" src="https://skillicons.dev/icons?i=java"/>][java]
+[<img align="left" alt="React" width="30px" src="https://skillicons.dev/icons?i=react"/>][react]
 
 ### Frameworks & Libraries
 
