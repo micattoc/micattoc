@@ -1,23 +1,19 @@
 ### Hi there 👋
 
-[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][blog]
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>][react]
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,angular,nodejs)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=aws,dynamodb,azure,mysql)](https://skillicons.dev)
 
 ### Interests
-[![Tools](https://skillicons.dev/icons?i=ps,ae,ai,blender,figma)](https://skillicons.dev)
-
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
 [1]: https://www.linkedin.com/in/sophia-halapchuk
+[react]: https://react.dev/
 
 <!--
 **micattoc/micattoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
