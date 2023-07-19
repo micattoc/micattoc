@@ -34,7 +34,7 @@
 </p>
 
 <div margin-top="20px">
-    <a href="https://www.linkedin.com/in/sophia-halapchuk"><img height="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/sophia-halapchuk"><img height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <!--
