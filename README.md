@@ -2,16 +2,17 @@
 
 
 ### Tech Stack
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,ts,html,css)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=react,angular,nodejs)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micattoc&layout=compact)](https://github.com/micattoc)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=aws,dynamodb,azure,mysql)](https://skillicons.dev)
+
+### Interests
+[![Tools](https://skillicons.dev/icons?i=ps,ae,ai,blender,figma)](https://skillicons.dev)
+
 
 ### Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
