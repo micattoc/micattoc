@@ -19,13 +19,15 @@
     <h4>Database</h4>
     <a href="https://www.mongodb.com"><img height="25px" src="https://skillicons.dev/icons?i=mongodb"/></a>
     <a href="https://www.postgresql.org"><img height="25px" src="https://skillicons.dev/icons?i=postgresql"/></a>
+    <a href="https://aws.amazon.com/pm/dynamodb"><img height="25px" src="https://skillicons.dev/icons?i=dynamodb"/></a>
     <a href="https://www.mysql.com"><img height="25px" src="https://skillicons.dev/icons?i=mysql"/></a>
     <h4>Cloud/Other tools</h4>
     <a href="https://aws.amazon.com"><img height="25px" src="https://skillicons.dev/icons?i=aws"/></a>
     <a href="https://azure.microsoft.com"><img height="25px" src="https://skillicons.dev/icons?i=azure"/></a>
+    <a href="https://www.gnu.org/software/bash"><img height="25px" src="https://skillicons.dev/icons?i=bash"/></a>
     <a href="https://nodejs.org"><img height="25px" src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a href="https://nginx.org"><img height="25px" src="https://skillicons.dev/icons?i=nginx"/></a>
-    <a href="https://vite.dev"><img height="25px" src="https://skillicons.dev/icons?i=vite"/></a>
+    <a href="https://regexr.com"><img height="25px" src="https://skillicons.dev/icons?i=regex"/></a>
   </div>
 </p>
 
