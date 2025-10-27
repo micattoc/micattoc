@@ -1,5 +1,5 @@
 ## howdy 👋
-<p>I'm a creative solver, Salesforce Developer & Computer Science student!</p>
+<p>I'm a creative solver and Salesforce Developer!</p>
 <h3>Tech Stack</h3>
 <p align="left">
   <div>
