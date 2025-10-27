@@ -1,5 +1,8 @@
 ## howdy 👋
 <p>I'm a creative solver and Salesforce Developer!</p>
+<p>
+  P.S Commits from the work I'm doing are private 👀
+</p>
 <h3>Tech Stack</h3>
 <p align="left">
   <div>
