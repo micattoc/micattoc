@@ -1,7 +1,7 @@
 ## howdy 👋
-<p>I'm a creative solver and Salesforce Developer!</p>
+<p>I'm an innovative solver and Salesforce Developer!</p>
 <p>
-  P.S Commits from the work I'm doing are private 👀
+  P.S Commits from my work are private 👀
 </p>
 <h3>Tech Stack</h3>
 <p align="left">
