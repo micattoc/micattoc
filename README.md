@@ -1,5 +1,5 @@
 ## howdy 👋
-<p>I'm an innovative solver and Salesforce Developer!</p>
+<p>I'm an innovative solver and Full Stack Engineer!</p>
 <p>
   P.S Commits from my work are private 👀
 </p>
