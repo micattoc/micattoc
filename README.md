@@ -1,8 +1,5 @@
 ## howdy 👋
 <p>I'm an innovative solver and Full Stack Engineer!</p>
-<p>
-  P.S Commits from my work are private 👀
-</p>
 <h3>Tech Stack</h3>
 <p align="left">
   <div>
