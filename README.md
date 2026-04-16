@@ -1,4 +1,4 @@
-## howdy 👋
+## hey 👋
 <p>I'm an innovative solver and Full Stack Engineer!</p>
 <p>ex-<b>AWS</b> | <b>5x</b> <a href="https://www.credly.com/users/sophia-halapchuk/badges#credly/">Certifications</a> | <b>Google</b> <a href="https://www.linkedin.com/posts/sophia-halapchuk_tech-google-computerscience-activity-7272327969946132480-PFMo?utm_source=share&utm_medium=member_desktop&rcm=ACoAADy9WPEBBF9e408CpPPgWf2GtfKD4P6TQgQ"> Awardee</a></p> 
 <h3>Tech Stack</h3>
